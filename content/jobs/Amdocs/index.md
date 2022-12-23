@@ -1,7 +1,7 @@
 ---
 date: '2020-07-30'
 title: 'Software Developer'
-company: 'Amdocs'
+company: 'Change'
 range: 'July 2020 - Present'
 url: 'https://www.amdocs.com/'
 ---
