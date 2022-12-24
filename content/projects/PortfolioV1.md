@@ -1,14 +1,14 @@
 ---
-date: '2020-04-21'
+date: '2022-01-02'
 title: 'Portfolio Website v1'
-github: 'https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1'
-external: 'https://chandrikadeb7.github.io/chandrikadeb7.github.io-v1/'
+github: 'https://github.com/stovsky/stovsky.github.io'
+external: ''
 tech:
+  - Jekyll
   - HTML
   - CSS
-  - Javascript
-  - Bootstrap
+  - Ruby
 showInProjects: true
 ---
 
-Portfolio Website Version 1 hosted using GitHub Pages. Updates coming soon!
+Version 1 of my website to display my portfolio, hosted on GitHub Pages.
