@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Buzz'
+title: 'Crowdflow'
 cover: 'test.png'
 github: 'https://github.com/stovsky/busy'
 tech:

@@ -13,7 +13,7 @@ skills:
 ---
 
 
-Hey everyone! I started my journey as a software developer when I first came to [UCLA](https://www.ucla.edu/). Here, I have been studying computer science for three years.
+Hey everyone! I started my journey as a software developer when I first came to [UCLA](https://www.ucla.edu/). Here, I have been studying computer science for four years.
 
 I am most experienced in full stack web development, exploratory data analysis and predictive modeling.
 
