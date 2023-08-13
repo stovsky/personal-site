@@ -1,7 +1,7 @@
 ---
 date: '2022-06-10'
 title: 'Software Engineer Intern'
-company: 'TagBox'
+company: 'Tagbox'
 range: 'June - August 2022'
 url: 'https://www.tagbox.io/'
 ---
