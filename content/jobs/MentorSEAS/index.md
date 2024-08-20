@@ -2,7 +2,7 @@
 date: '2021-07-07'
 title: 'Mentor'
 company: 'MentorSEAS UCLA'
-range: 'May 2022 - Present'
+range: 'May 2022 - June 2024'
 url: 'http://mentorship.seas.ucla.edu/'
 ---
 

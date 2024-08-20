@@ -223,7 +223,8 @@ const Jobs = ({ data }) => {
         {data &&
           data.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { title, url, company, range } = frontmatter;
+            const { title, url, company, range, range2 } = frontmatter;
+            console.log(html);
             return (
               <StyledTabContent
                 key={i}
@@ -246,6 +247,9 @@ const Jobs = ({ data }) => {
                   <span>{range}</span>
                 </StyledJobDetails>
                 <div dangerouslySetInnerHTML={{ __html: html }} />
+                {company === 'Wells Fargo' ? <StyledJobTitle><span>{'Software Engineer Intern'}</span></StyledJobTitle> : null}
+                {company === 'Wells Fargo' ? <StyledJobDetails><span>{'June - August 2023'}</span></StyledJobDetails> : null}
+                {company === 'Wells Fargo' ?  <div dangerouslySetInnerHTML={{ __html: '<ul><li>Integral member of the eSignature integrated team, responsible for developing and implementing eSignature-As-A-Service (EaaS), a suite of three Wells Fargo applications and DocuSign integrated with enterprise services and assets</li><li>Developed a microfrontend which utilizes Wells Fargo eSignature capabilities to seamlessly integrate with other enterprise services and greatly improve time-to-market</li><li>Enhanced eSignature post signing process APIs to efficiently export and archive executed documents by creating an HTML and PDF retrieval solution</li><li>Implemented behavior-driven development (BDD) tests to thoroughly validate various APIs</li></ul>' }} /> : null}
               </StyledTabContent>
             );
           })}

@@ -8,17 +8,15 @@ skills:
   - C/C++
   - React
   - Git
-  - Scikit-Learn
-  - Pandas
+  - Java
+  - SQL
 ---
 
 
-Hey everyone! I started my journey as a software developer when I first came to [UCLA](https://www.ucla.edu/). Here, I have been studying computer science for four years.
-
-I am most experienced in full stack web development, exploratory data analysis and predictive modeling.
+Hey everyone! I started my journey as a software engineer when I first came to [UCLA](https://www.ucla.edu/). Here I graduated with a B.S. in Computer Science. Now I work full-time at Wells Fargo on the Primary Markets Platform.
 
 I am also skilled in business and entrepreneurship, having founded and operated a clothing design company that reclaimed and repurposed vintage clothing for modern applications.
 
-In my free time, I love to play chess, spend time with friends, and watch Christopher Nolan movies.
+In my free time, I love to play chess, spend time with friends, do crosswords, and watch Christopher Nolan movies.
 
 Here is a list of the technologies that I'm familiar with!
