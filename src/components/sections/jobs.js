@@ -224,7 +224,6 @@ const Jobs = ({ data }) => {
           data.map(({ node }, i) => {
             const { frontmatter, html } = node;
             const { title, url, company, range, range2 } = frontmatter;
-            console.log(html);
             return (
               <StyledTabContent
                 key={i}
